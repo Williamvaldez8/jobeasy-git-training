@@ -1,1 +1,2 @@
 This is the text that you will see when test.txt
+The color is green in this test.

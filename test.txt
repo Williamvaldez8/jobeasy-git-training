@@ -1,1 +1,2 @@
 This is the text that you will see when test.txt
+This is the new line and the color is RED>
